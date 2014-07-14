@@ -1,9 +1,8 @@
 SockThing
 =========
 
-Bitcoin Stratum Mining Pool Server
-
-See http://hhtt.1209k.com/sockthing.php
-
+Next Generation Bitcoin Stratum Mining Pool Server
+TidePool 2.0
+In Java
 
 
