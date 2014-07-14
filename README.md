@@ -1,4 +1,4 @@
-SockThing
+TidePool 2.0
 =========
 
 Next Generation Bitcoin Stratum Mining Pool Server
